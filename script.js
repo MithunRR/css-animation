@@ -25,7 +25,7 @@ const readyNew = () => {
         centerImg.style.padding = '20px';
         centerImg.style.justifyContent = 'center';
         centerImg.style.alignItems = 'center';
-        centerImg.style.background = "url('/assets/blog1.png')";
+        centerImg.style.background = "url('assets/blog1.png')";
         centerImg.style.backgroundRepeat = 'no-repeat';
         centerImg.style.backgroundSize = 'cover';
     }, 4000);
